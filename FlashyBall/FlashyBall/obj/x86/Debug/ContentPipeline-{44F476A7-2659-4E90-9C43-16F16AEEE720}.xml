@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\theme.wav</Source>
+      <Name>Audio\theme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Audio\theme.xnb</Output>
+      <Time>2015-11-21T19:59:16.5798687-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\backbutton.png</Source>
+      <Name>Buttons\backbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\backbutton.xnb</Output>
+      <Time>2015-04-16T12:23:11.539141-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\creditsbutton.png</Source>
+      <Name>Buttons\creditsbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\creditsbutton.xnb</Output>
+      <Time>2015-04-16T12:21:32.3088792-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\easybutton.png</Source>
+      <Name>Buttons\easybutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\easybutton.xnb</Output>
+      <Time>2015-04-16T21:24:05.8434034-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\hardbutton.png</Source>
+      <Name>Buttons\hardbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\hardbutton.xnb</Output>
+      <Time>2015-04-16T21:25:06.2749929-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\impossiblebutton.png</Source>
+      <Name>Buttons\impossiblebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\impossiblebutton.xnb</Output>
+      <Time>2015-04-16T21:26:01.1265545-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\mediumbutton.png</Source>
+      <Name>Buttons\mediumbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\mediumbutton.xnb</Output>
+      <Time>2015-04-16T21:24:35.2570342-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\playbutton.png</Source>
+      <Name>Buttons\playbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\playbutton.xnb</Output>
+      <Time>2015-04-16T12:20:22.3955972-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\quitbutton.png</Source>
+      <Name>Buttons\quitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\quitbutton.xnb</Output>
+      <Time>2015-04-16T12:25:11.4118919-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\testbutton.png</Source>
+      <Name>Buttons\testbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\testbutton.xnb</Output>
+      <Time>2015-04-15T14:04:21.9314766-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\logoblue.png</Source>
+      <Name>Logos\logoblue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoblue.xnb</Output>
+      <Time>2015-04-17T07:12:31.0902246-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\logogreen.png</Source>
+      <Name>Logos\logogreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logogreen.xnb</Output>
+      <Time>2015-04-17T07:13:03.2816533-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\logored.png</Source>
+      <Name>Logos\logored</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logored.xnb</Output>
+      <Time>2015-04-17T07:12:41.7641213-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Logos\logoyellow.png</Source>
+      <Name>Logos\logoyellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoyellow.xnb</Output>
+      <Time>2015-04-17T07:12:53.1407995-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\ballsprite.png</Source>
+      <Name>Objects\ballsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\ballsprite.xnb</Output>
+      <Time>2015-04-17T16:11:49.8180015-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\dividinglinesprite.png</Source>
+      <Name>Objects\dividinglinesprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\dividinglinesprite.xnb</Output>
+      <Time>2015-04-18T21:46:32.4752895-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\paddlesprite.png</Source>
+      <Name>Objects\paddlesprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\paddlesprite.xnb</Output>
+      <Time>2015-04-17T15:57:18.6281436-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\creditsscreen.png</Source>
+      <Name>Screens\creditsscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\creditsscreen.xnb</Output>
+      <Time>2015-11-21T20:33:36.8665597-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\rulesscreen.png</Source>
+      <Name>Screens\rulesscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\rulesscreen.xnb</Output>
+      <Time>2015-04-21T20:39:47.2777444-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\xnascreen.png</Source>
+      <Name>Screens\xnascreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\xnascreen.xnb</Output>
+      <Time>2015-04-16T12:16:39.9815889-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Winners\player1win.png</Source>
+      <Name>Winners\player1win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player1win.xnb</Output>
+      <Time>2015-04-18T21:22:39.4161319-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Winners\player2win.png</Source>
+      <Name>Winners\player2win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player2win.xnb</Output>
+      <Time>2015-04-18T21:24:57.5808414-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreFont.spritefont</Source>
+      <Name>Fonts\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Fonts\ScoreFont.xnb</Output>
+      <Time>2015-04-18T15:39:25.8551711-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{44F476A7-2659-4E90-9C43-16F16AEEE720}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBallContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-19T15:56:41.8606884-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
