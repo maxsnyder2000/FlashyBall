@@ -7,8 +7,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Audio\theme.xnb</Output>
-      <Time>2015-11-21T19:59:16.5798687-05:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Audio\theme.xnb</Output>
+      <Time>2015-11-21T19:59:18-05:00</Time>
     </Item>
     <Item>
       <Source>Buttons\backbutton.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\backbutton.xnb</Output>
-      <Time>2015-04-16T12:23:11.539141-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\backbutton.xnb</Output>
+      <Time>2015-04-16T12:23:12-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\creditsbutton.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\creditsbutton.xnb</Output>
-      <Time>2015-04-16T12:21:32.3088792-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\creditsbutton.xnb</Output>
+      <Time>2015-04-16T12:21:34-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\easybutton.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\easybutton.xnb</Output>
-      <Time>2015-04-16T21:24:05.8434034-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\easybutton.xnb</Output>
+      <Time>2015-04-16T21:24:06-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\hardbutton.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\hardbutton.xnb</Output>
-      <Time>2015-04-16T21:25:06.2749929-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\hardbutton.xnb</Output>
+      <Time>2015-04-16T21:25:08-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\impossiblebutton.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\impossiblebutton.xnb</Output>
-      <Time>2015-04-16T21:26:01.1265545-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\impossiblebutton.xnb</Output>
+      <Time>2015-04-16T21:26:02-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\mediumbutton.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\mediumbutton.xnb</Output>
-      <Time>2015-04-16T21:24:35.2570342-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\mediumbutton.xnb</Output>
+      <Time>2015-04-16T21:24:36-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\playbutton.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\playbutton.xnb</Output>
-      <Time>2015-04-16T12:20:22.3955972-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\playbutton.xnb</Output>
+      <Time>2015-04-16T12:20:24-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\quitbutton.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\quitbutton.xnb</Output>
-      <Time>2015-04-16T12:25:11.4118919-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\quitbutton.xnb</Output>
+      <Time>2015-04-16T12:25:12-04:00</Time>
     </Item>
     <Item>
       <Source>Buttons\testbutton.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\testbutton.xnb</Output>
-      <Time>2015-04-15T14:04:21.9314766-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\testbutton.xnb</Output>
+      <Time>2015-04-15T14:04:22-04:00</Time>
     </Item>
     <Item>
       <Source>Logos\logoblue.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoblue.xnb</Output>
-      <Time>2015-04-17T07:12:31.0902246-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoblue.xnb</Output>
+      <Time>2015-04-17T07:12:32-04:00</Time>
     </Item>
     <Item>
       <Source>Logos\logogreen.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logogreen.xnb</Output>
-      <Time>2015-04-17T07:13:03.2816533-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logogreen.xnb</Output>
+      <Time>2015-04-17T07:13:04-04:00</Time>
     </Item>
     <Item>
       <Source>Logos\logored.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logored.xnb</Output>
-      <Time>2015-04-17T07:12:41.7641213-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logored.xnb</Output>
+      <Time>2015-04-17T07:12:42-04:00</Time>
     </Item>
     <Item>
       <Source>Logos\logoyellow.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoyellow.xnb</Output>
-      <Time>2015-04-17T07:12:53.1407995-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoyellow.xnb</Output>
+      <Time>2015-04-17T07:12:54-04:00</Time>
     </Item>
     <Item>
       <Source>Objects\ballsprite.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\ballsprite.xnb</Output>
-      <Time>2015-04-17T16:11:49.8180015-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\ballsprite.xnb</Output>
+      <Time>2015-04-17T16:11:50-04:00</Time>
     </Item>
     <Item>
       <Source>Objects\dividinglinesprite.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\dividinglinesprite.xnb</Output>
-      <Time>2015-04-18T21:46:32.4752895-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\dividinglinesprite.xnb</Output>
+      <Time>2015-04-18T21:46:34-04:00</Time>
     </Item>
     <Item>
       <Source>Objects\paddlesprite.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\paddlesprite.xnb</Output>
-      <Time>2015-04-17T15:57:18.6281436-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\paddlesprite.xnb</Output>
+      <Time>2015-04-17T15:57:20-04:00</Time>
     </Item>
     <Item>
       <Source>Screens\creditsscreen.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\creditsscreen.xnb</Output>
-      <Time>2015-11-21T20:33:36.8665597-05:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\creditsscreen.xnb</Output>
+      <Time>2015-11-21T20:33:38-05:00</Time>
     </Item>
     <Item>
       <Source>Screens\rulesscreen.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\rulesscreen.xnb</Output>
-      <Time>2015-04-21T20:39:47.2777444-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\rulesscreen.xnb</Output>
+      <Time>2015-04-21T20:39:48-04:00</Time>
     </Item>
     <Item>
       <Source>Screens\xnascreen.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\xnascreen.xnb</Output>
-      <Time>2015-04-16T12:16:39.9815889-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\xnascreen.xnb</Output>
+      <Time>2015-04-16T12:16:40-04:00</Time>
     </Item>
     <Item>
       <Source>Winners\player1win.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player1win.xnb</Output>
-      <Time>2015-04-18T21:22:39.4161319-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player1win.xnb</Output>
+      <Time>2015-04-18T21:22:40-04:00</Time>
     </Item>
     <Item>
       <Source>Winners\player2win.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player2win.xnb</Output>
-      <Time>2015-04-18T21:24:57.5808414-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player2win.xnb</Output>
+      <Time>2015-04-18T21:24:58-04:00</Time>
     </Item>
     <Item>
       <Source>Fonts\ScoreFont.spritefont</Source>
@@ -205,8 +205,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Fonts\ScoreFont.xnb</Output>
-      <Time>2015-04-18T15:39:25.8551711-04:00</Time>
+      <Output>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Fonts\ScoreFont.xnb</Output>
+      <Time>2015-04-18T15:39:26-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -215,39 +215,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBallContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBallContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-11-19T15:56:41.8606884-05:00</Value>
+        <Value>2020-06-10T17:48:45.4640741-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

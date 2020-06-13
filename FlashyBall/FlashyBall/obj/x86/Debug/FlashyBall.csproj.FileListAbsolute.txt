@@ -37,3 +37,85 @@ C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\D
 C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.exe
 C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.pdb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Audio\theme.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\backbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\creditsbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\easybutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\hardbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\impossiblebutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\mediumbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\playbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\quitbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\testbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoblue.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logogreen.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logored.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoyellow.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\ballsprite.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\dividinglinesprite.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\paddlesprite.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\creditsscreen.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\rulesscreen.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\xnascreen.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player1win.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player2win.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\FlashyBall.exe
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\FlashyBall.pdb
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.csprojAssemblyReference.cache
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.csproj.CoreCompileInputs.cache
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.csproj.CopyComplete
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.exe
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.pdb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Audio\theme.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\backbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\creditsbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\easybutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\hardbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\impossiblebutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\mediumbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\playbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\quitbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Buttons\testbutton.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoblue.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logogreen.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logored.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Logos\logoyellow.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\ballsprite.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\dividinglinesprite.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Objects\paddlesprite.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\creditsscreen.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\rulesscreen.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Screens\xnascreen.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player1win.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Winners\player2win.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\FlashyBall.exe
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\FlashyBall.pdb
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.csprojAssemblyReference.cache
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.csproj.CoreCompileInputs.cache
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.csproj.CopyComplete
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.exe
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBall\obj\x86\Debug\FlashyBall.pdb

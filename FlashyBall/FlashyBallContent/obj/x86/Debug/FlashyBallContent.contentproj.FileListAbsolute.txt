@@ -1,1 +1,4 @@
 C:\Users\maxsn\Desktop\C#\My Projects\FlashyBall\FlashyBall\FlashyBallContent\obj\x86\Debug\FlashyBallContent.contentprojResolveAssemblyReference.cache
+C:\Users\SnyderMax\Documents\Projects\_ Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBallContent\obj\x86\Debug\FlashyBallContent.contentproj.CoreCompileInputs.cache
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBallContent\obj\x86\Debug\FlashyBallContent.contentprojAssemblyReference.cache
+C:\Users\SnyderMax\Documents\Projects\_Pre-Harvard\C#\My Projects\FlashyBall\FlashyBall\FlashyBallContent\obj\x86\Debug\FlashyBallContent.contentproj.CoreCompileInputs.cache
